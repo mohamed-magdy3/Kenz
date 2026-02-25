@@ -62,7 +62,7 @@ export default function Navbar() {
             className="md:hidden bg-blue-950/95 overflow-hidden"
           >
             <div className="p-6 space-y-4 text-center">
-              {["كل المنتجات", "موبايلات", "لابتوب", "اكسسوارات"].map(
+              {["كل المنتجات", "احذية رجالي", "احذية حريمي", "شباشب"].map(
                 (link) => (
                   <a
                     key={link}
